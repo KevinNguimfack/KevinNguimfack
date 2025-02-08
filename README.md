@@ -5,6 +5,6 @@
 - 📫 How to reach me on knguimfack@gmail.com
 
 <!---
-KevinNguimfack/KevinNguimfack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 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
+KevinNguimfack/KevinNguimfack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.
 --->
